@@ -1,6 +1,6 @@
 # 🏦 Projeto de Análise de Câmbio: Almeida LTDA & Banco Central do Brasil
 
-Este projeto implementa uma solução de Engenharia de Dados e Análise em Python para atender aos requisitos da Almeida LTDA, conforme detalhado no **CASE-EDUMI 2022**.
+Este projeto implementa uma solução de Engenharia de Dados e Análise em Python para atender aos requisitos da Almeida LTDA, conforme detalhado no **CASE-EDUMI 2025**.
 
 O objetivo é automatizar a aquisição, unificação e tratamento dos dados de Ranking de Câmbio do Banco Central do Brasil (BACEN), fornecendo métricas para a tomada de decisão sobre operações cambiais.
 
@@ -37,5 +37,6 @@ A implementação do projeto inclui:
 
 ---
 *Próximos passos após a aquisição: Finalizar o tratamento (`nl.tratar_dados`), iniciar a análise das 9 perguntas do case e desenvolver a crianção de dashboard.*
+
 
 
