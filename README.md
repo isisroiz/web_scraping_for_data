@@ -33,10 +33,11 @@ A implementação do projeto inclui:
 
 1.  **Criação Estrutural de Pastas:** Garante que a estrutura `dados/` e `dados/zipfiles/` exista.
 2.  **Automação Híbrida de Download:** Utiliza a lógica de laço de repetição (`for`) para baixar os dados de 2015 a 2025 (padrões `[MM]-IF-` e `[MM]-[MM]`) e trata a inconsistência do BACEN.
-3.  **Unificação Inteligente:** Lê **todos** os arquivos CSV extraídos, aplica correções essenciais (`header=4`, `encoding='latin1'`) e concatena-os em um único DataFrame.
+3.  **Unificação Inteligente:** Lê **todos** os arquivos CSV extraídos, aplica correções essenciais e concatena-os em um único DataFrame.
 
 ---
 *Próximos passos após a aquisição: Finalizar o tratamento (`nl.tratar_dados`), iniciar a análise das 9 perguntas do case e desenvolver a crianção de dashboard.*
+
 
 
 
