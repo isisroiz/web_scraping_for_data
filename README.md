@@ -24,7 +24,7 @@ O projeto é dividido em três fases metodológicas (Aquisição, Tratamento e A
 ## 🚀 Como Executar o Projeto
 
 1.  **Pré-requisitos:** Certifique-se de ter o Python (com Spyder ou seu ambiente de preferência) e as bibliotecas `pandas` e `requests` instaladas.
-2.  **Configuração de Caminho:** O script `main.py` utiliza caminhos absolutos (`C:\Users\Isis\...`). Altere as variáveis `DESTINO_BASE` no `main.py` para o caminho local da sua máquina.
+2.  **Configuração de Caminho:** O script `main.py` utiliza caminhos absolutos. Altere as variáveis `DESTINO_BASE` no `main.py` para o caminho local da sua máquina.
 3.  **Execução:** Execute o arquivo `main.py`.
 
 ## ⚙️ Funcionalidades Automatizadas
@@ -37,6 +37,7 @@ A implementação do projeto inclui:
 
 ---
 *Próximos passos após a aquisição: Finalizar o tratamento (`nl.tratar_dados`), iniciar a análise das 9 perguntas do case e desenvolver a crianção de dashboard.*
+
 
 
 
